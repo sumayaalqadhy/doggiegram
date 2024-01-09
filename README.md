@@ -1,25 +1,16 @@
 # Starter redux assessment: Doggiegram
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a project for the Thinkful frontend bootcamp that focuses on Redux skills. 
 
-## Available scripts
+## Project description 
 
-In the project directory, you can run the following commands:
+This is a social media page called "Doggiegram". It is an application that allows users to collect and share photos of their favorite dog breeds. 
 
-### `npm install`
+### The application has the following functionality
+- Add a new photo to the collection
 
-Installs the project dependencies, including Redux packages such as @reduxjs/toolkit and react-redux.
+- Remove a photo from the collection
 
-### `npm run dev`
+- Search and filter the photos collection based on a search term
 
-Runs the React app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-Runs an Express API at `http://localhost:3004` that exposes a single endpoint, `GET /api/suggestion`, which returns a dog suggestion at random.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Runs the test suites.
+- Load a photo suggestion that the user can add to their collection
